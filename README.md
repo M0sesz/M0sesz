@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anton</h1>
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m0sesz" alt="m0sesz" /></a> </p>
-
 - 🌱 I’m currently learning **REACT, TYPESCRIPT, NODE.JS**
 
 - 📫 How to reach me **rodrigescouy25@gmail.com**
@@ -20,3 +18,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=m0sesz&show_icons=true&locale=en&layout=compact" alt="m0sesz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m0sesz&" alt="m0sesz" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m0sesz" alt="m0sesz" /></a> </p>
