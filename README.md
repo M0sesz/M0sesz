@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anton</h1>
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
 
-- 🌱 I’m currently learning **REACT, TYPESCRIPT, NODE.JS**
+- 🌱 I’m currently learning **REACT, HTML5, CSS3, TAILWIND, REDUX**
 
 - 📫 How to reach me **rodrigescouy25@gmail.com**
 
